@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MCC-2016-G05-P2</string>
+    <string name="generic_error_server">Server connection error.</string>
+    <string name="generic_ok">OK</string>
+    <string name="title_activity_ocr_operations">OCR_operations</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_ocr_operations_local_operation">Local</string>
+    <string name="activity_ocr_operations_remote_operation">Remote</string>
+    <string name="activity_ocr_operations_benchmark_operation">Benchmark</string>
+
+    <string name="title_text">Sign-In with your\nGoogle Account</string>
+    <string name="sign_in_err">"Error encountered while signing in using Google."</string>
+    <string name="desc_google_icon">Google Logo</string>
+    <string name="server_client_id">552032692623-j1355amna6ntrihmc3psl6of826ov2hk.apps.googleusercontent.com</string>
+</resources>

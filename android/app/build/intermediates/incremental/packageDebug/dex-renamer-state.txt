@@ -1,0 +1,7 @@
+#Sun Dec 11 17:24:42 EET 2016
+base.0=E\:\\Aalto Courses Data\\Mobile Cloud Computing\\Project2\\mcc-2016-g05-p2\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_191052fa2f39b3ababde13568f0a470db3d04139
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Aalto Courses Data\\Mobile Cloud Computing\\Project2\\mcc-2016-g05-p2\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_22eff6572bb4db60c6ab15fe02d00a73e97e3826\\classes.dex
+base.1=E\:\\Aalto Courses Data\\Mobile Cloud Computing\\Project2\\mcc-2016-g05-p2\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_22eff6572bb4db60c6ab15fe02d00a73e97e3826
+file.0=E\:\\Aalto Courses Data\\Mobile Cloud Computing\\Project2\\mcc-2016-g05-p2\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_191052fa2f39b3ababde13568f0a470db3d04139\\classes.dex

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_81cbbddccc4e2efd1017ec35ca335188de711ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_23adb6e834babb36129307f24dbf2fa1551d077f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_3d95d96eea0450507f8b7007d6e83c312edce4e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_78544457cade9b5211cbb08dd35d6e2913291eca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_78544457cade9b5211cbb08dd35d6e2913291eca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6de5218e945dbaac1164fbc9df4a4ab3dce5d7d2">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_191052fa2f39b3ababde13568f0a470db3d04139\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_126ec89dece3ebf6a5adf939a2a09b546111b728\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_081744ce61aff67426f955797fceaa055578675b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_24b3ee09598af22dc754c48af1f1e7f924267967\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_81cbbddccc4e2efd1017ec35ca335188de711ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_23adb6e834babb36129307f24dbf2fa1551d077f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_56c6bb5667edb191fc4ff862e7f6f9d7a485e0a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7d68be03ebc81d30e21cad18445c593d8704d160">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_22eff6572bb4db60c6ab15fe02d00a73e97e3826\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_8a016c5472db8d4d9ed59668161b9a3ff7dac860\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_dafe051d3508c6498e1b617b4b14f454cc365aa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_24d4333eb0205f01936fb5ba98c0108b25168240\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_6ad800b56779f99cd19c597e6a585aaf11d1d968\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.0_3de10125faffa2927892ad89344e991b295f6e54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_bf6d7dc918ac2f1264671849a7ab95c6287e22b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_081744ce61aff67426f955797fceaa055578675b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b6f60630b645bda7b555b89d533348ed8d486026">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_191052fa2f39b3ababde13568f0a470db3d04139\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_dafe051d3508c6498e1b617b4b14f454cc365aa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_24d4333eb0205f01936fb5ba98c0108b25168240\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e539310c605cadbdfc9fd98b9b1f034eebdf9a29">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_22eff6572bb4db60c6ab15fe02d00a73e97e3826\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_3d95d96eea0450507f8b7007d6e83c312edce4e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_bf6d7dc918ac2f1264671849a7ab95c6287e22b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_126ec89dece3ebf6a5adf939a2a09b546111b728\classes.dex" />
+    </item>
+
+</items>

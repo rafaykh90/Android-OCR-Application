@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "552032692623",
+    "project_id": "mcc-2016-g05-p2"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552032692623:android:eb1576f17f879bb2",
+        "android_client_info": {
+          "package_name": "mcc_2016_g05_p2.niksula.hut.fi.android_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552032692623-j1355amna6ntrihmc3psl6of826ov2hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3fNT8KNyZ5tKgJCc7BQNeEj02TtxP13Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552032692623:android:bba0302695d3df1f",
+        "android_client_info": {
+          "package_name": "fi.hut.niksula.mcc_2016_g05_p2.android_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552032692623-esj30rhl03pv1l9r6thloiik0f2971qc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fi.hut.niksula.mcc_2016_g05_p2.android_client",
+            "certificate_hash": "45C051586D84190ECE171E7FDD72C5F19E63E8F8"
+          }
+        },
+        {
+          "client_id": "552032692623-j1355amna6ntrihmc3psl6of826ov2hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3fNT8KNyZ5tKgJCc7BQNeEj02TtxP13Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552032692623:android:5d5748a784a9b7bf",
+        "android_client_info": {
+          "package_name": "mcc_2016_g05_p2.niksula.hut.fi.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552032692623-9mbvp9ij1aec60bhb4q42krmnvsd8q00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcc_2016_g05_p2.niksula.hut.fi.android",
+            "certificate_hash": "B88637A34B5790F024D73BC0E517530F17A37F79"
+          }
+        },
+        {
+          "client_id": "552032692623-j1355amna6ntrihmc3psl6of826ov2hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3fNT8KNyZ5tKgJCc7BQNeEj02TtxP13Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

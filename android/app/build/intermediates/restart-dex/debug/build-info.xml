@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="93894342308869"
+    token="-8619187451712781962"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1261" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1282" />
+    <task
+        name="verifier"
+        duration="574" />
+
+    <artifact
+        location="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="93894342308869"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\Aalto Courses Data\Mobile Cloud Computing\Project2\mcc-2016-g05-p2\android\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

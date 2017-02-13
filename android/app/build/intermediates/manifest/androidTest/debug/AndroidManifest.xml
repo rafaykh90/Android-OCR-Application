@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mcc_2016_g05_p2.niksula.hut.fi.android.test">
+
+    <uses-sdk android:minSdkVersion="22" android:targetSdkVersion="22" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.support.test.runner.AndroidJUnitRunner"
+                     android:targetPackage="mcc_2016_g05_p2.niksula.hut.fi.android"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for mcc_2016_g05_p2.niksula.hut.fi.android"/>
+</manifest>

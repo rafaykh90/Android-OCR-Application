@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Aalto Courses Data\\Mobile Cloud Computing\\Project2\\mcc-2016-g05-p2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\Aalto Courses Data\\Mobile Cloud Computing\\Project2\\mcc-2016-g05-p2\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Aalto Courses Data\\Mobile Cloud Computing\\Project2\\mcc-2016-g05-p2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\camera.png",
+        "source": "E:\\Aalto Courses Data\\Mobile Cloud Computing\\Project2\\mcc-2016-g05-p2\\android\\app\\src\\main\\res\\mipmap-mdpi\\camera.png"
+    },
+    {
+        "merged": "E:\\Aalto Courses Data\\Mobile Cloud Computing\\Project2\\mcc-2016-g05-p2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\gallery.png",
+        "source": "E:\\Aalto Courses Data\\Mobile Cloud Computing\\Project2\\mcc-2016-g05-p2\\android\\app\\src\\main\\res\\mipmap-mdpi\\gallery.png"
+    }
+]
